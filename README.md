@@ -16,6 +16,6 @@ Frontend: React.js
 
 Backend: Node.js, Express
 
-Database: MongoDB
+Database: MongoDB 
 
 Authentication: JWT (role-based access)
