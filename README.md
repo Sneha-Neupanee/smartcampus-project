@@ -12,7 +12,7 @@ Admin Panel: Manage users, assign courses, oversee attendance, publish campus-wi
 
 **Tech Stack**
 
-Frontend: React.js
+Frontend: React.js 
 
 Backend: Node.js, Express
 
