@@ -1,46 +1,21 @@
-Smart Campus
+**Smart Campus**
 
-Smart Campus is a full-stack web application designed to simplify and modernize campus management. It connects students, teachers, and administrators in one system, making attendance, assignments, and communication efficient and organized.
+Smart Campus is a full-stack web application that streamlines campus management for students, teachers, and administrators. It provides tools for managing attendance, assignments, communication, and user roles in one integrated system.
 
-Features
-Student Portal
+**Features**
 
-Secure registration and login
+Student Portal: Login, view grades and attendance, submit assignments, receive announcements.
 
-View assignments, grades, and attendance
+Teacher Portal: Manage attendance, upload and grade assignments, post announcements, track performance.
 
-Submit assignments online
+Admin Panel: Manage users, assign courses, oversee attendance, publish campus-wide updates.
 
-Receive announcements and notifications
-
-Teacher Portal
-
-Manage class attendance
-
-Upload and grade assignments
-
-Post announcements
-
-Track student performance
-
-Admin Panel
-
-Manage users (students, teachers, staff)
-
-Oversee attendance records
-
-Assign courses and subjects
-
-Control campus-wide announcements
-
-Tech Stack
+**Tech Stack**
 
 Frontend: React.js
 
-Backend: Node.js with Express
+Backend: Node.js, Express
 
 Database: MongoDB
 
-Authentication: JWT with role-based access control
-
-Other Tools: Git/GitHub for version control, npm for package management
+Authentication: JWT (role-based access)
