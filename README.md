@@ -10,7 +10,7 @@ Teacher Portal: Manage attendance, upload and grade assignments, post announceme
 
 Admin Panel: Manage users, assign courses, oversee attendance, publish campus-wide updates.
 
-**Tech Stack**
+**Tech Stack** 
 
 Frontend: React.js 
 
