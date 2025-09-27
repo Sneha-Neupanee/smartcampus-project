@@ -2,7 +2,7 @@
 
 Smart Campus is a full-stack web application that streamlines campus management for students, teachers, and administrators. It provides tools for managing attendance, assignments, communication, and user roles in one integrated system.
 
-**Features**
+**Features** 
 
 Student Portal: Login, view grades and attendance, submit assignments, receive announcements.
 
