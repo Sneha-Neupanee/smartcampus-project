@@ -1,0 +1,3 @@
+
+import React from 'react'
+export default function DemoCreds(){ const creds=[{role:'Admin',email:'admin@campus.com',password:'adminpass'},{role:'Teacher',email:'alice@school.com',password:'teach1'},{role:'Teacher',email:'bob@school.com',password:'teach2'},{role:'Student',email:'s1@school.com',password:'stud1'},{role:'Student',email:'s2@school.com',password:'stud2'},{role:'Student',email:'s3@school.com',password:'stud3'}]; return (<div className="card"><h2>Demo Credentials (PRIVATE)</h2><p>Open only when presenting.</p><ul className="list">{creds.map(c=> <li key={c.email}><b>{c.role}</b>: {c.email} / <code>{c.password}</code></li>)}</ul></div>) }
